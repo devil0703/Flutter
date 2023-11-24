@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "39739673161",
+    "project_id": "makai-65aae",
+    "storage_bucket": "makai-65aae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39739673161:android:babd97b588a61f80e5cd98",
+        "android_client_info": {
+          "package_name": "com.makaiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39739673161-mhs5tt1ek42hc25ff51buncjoaifkn1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.makaiapp",
+            "certificate_hash": "afbdb2993005807a187ad5503fa7b95c3ec96a27"
+          }
+        },
+        {
+          "client_id": "39739673161-9c6hsr4vuu2fbeeigpfpv6o3409s2np0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEaT4SJj_hLu3kSy68eSEIZxp9iGadzCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39739673161-9c6hsr4vuu2fbeeigpfpv6o3409s2np0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

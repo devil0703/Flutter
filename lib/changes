@@ -1,0 +1,26 @@
+Messaging
+
+1. User
+
+- List shows -> Vessel Name (Owner Name)
+- Conversation shows -> 'You are chatting with the owner'
+
+2. Owner
+
+- List shows -> User Name
+- Conversation shows -> 'Conversation related to Vessel Name'
+
+
+
+
+
+
+
+
+
+
+
+
+1. Create Stripe customer on sign up => returns stripeCustomerID
+2. Use stripeCustomerID to create a payment intent => returns paymentIntent.id
+3. Use paymentIntent.id to confirm payment

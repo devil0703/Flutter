@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Makai</string>
+    <string name="facebook_app_id">1964542027051565</string>
+    <string name="fb_login_protocol_scheme">fb1964542027051565</string>
+    <string name="facebook_client_token">94f98f8e435cc4b700ba119c93fa4fb8</string>
+</resources>
